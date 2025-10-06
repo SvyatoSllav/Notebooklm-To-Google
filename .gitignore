@@ -1,0 +1,24 @@
+# Node
+node_modules/
+.npm/
+
+# Build
+.output/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env*
+
+# Editor/OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# WXT cache
+.wxt/
